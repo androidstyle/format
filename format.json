@@ -1,0 +1,21 @@
+
+user = {
+        "host_key"          : "199f52fc9f2492c64449ed96003f135f8ea428e353e50c40b0c1a16b9c16f571",
+        "method"            : "create",
+        "id"                : "28846827432",
+        "username"          : "abdultut",
+        "first_name"        : "Абдулгамид",
+        "date_registration" : "1234546543",
+        "profile_avatar"    : "https://t.me/efhednvenkfekfdemjsqpwideifn.jpg",
+        "user_ban"          : "false",
+        "balance"           : "0",
+        "mining_boost"      : "0",
+        "click_boost"       : "1",
+        "energy_limit"      : "100",
+        "energy_boost"      : "1",
+        "date_online"       : "1383747578",
+        "lvl_boost_mining"  : "0",
+        "lvl_boost_click"   : "0",
+        "lvl_boost_energy"  : "0",
+
+        }
