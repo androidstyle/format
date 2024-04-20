@@ -1,5 +1,5 @@
 
-user = {
+{
         "host_key"          : "199f52fc9f2492c64449ed96003f135f8ea428e353e50c40b0c1a16b9c16f571",
         "method"            : "create",
         "id"                : "28846827432",
@@ -17,5 +17,4 @@ user = {
         "lvl_boost_mining"  : "0",
         "lvl_boost_click"   : "0",
         "lvl_boost_energy"  : "0",
-
-        }
+}
